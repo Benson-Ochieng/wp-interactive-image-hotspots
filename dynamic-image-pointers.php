@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       WP Dynamic Image Pointers: Interactive Diagram Hotspots
- * Plugin URI:        https://github.com/Benson-Ochieng/wp-dynamic-image-pointers
+ * Plugin URI:        https://github.com/Benson-Ochieng/wp-interactive-image-hotspots
  * Description:       Create interactive image diagrams with synchronized hotspot callouts and scrollable specs.
  * Version:           1.0.0
  * Requires at least: 5.8

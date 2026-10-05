@@ -31,7 +31,7 @@
 Clone directly into your WordPress plugins folder:
 ```bash
 cd wp-content/plugins/
-git clone https://github.com/<your-username>/wp-dynamic-image-pointers.git dynamic-image-pointers
+git clone https://github.com/Benson-Ochieng/wp-interactive-image-hotspots.git dynamic-image-pointers
 ```
 
 ---
@@ -79,6 +79,7 @@ dynamic-image-pointers/
 │   ├── dynamic-pointers.css   # Frontend responsive styling
 │   └── dynamic-pointers.js    # Frontend hotspot interaction & scroll sync
 ├── dynamic-image-pointers.php # Main plugin bootstrap, DB migration, & AJAX handlers
+├── build-zip.ps1              # PowerShell script to package installable WP ZIP
 ├── README.md                  # Plugin documentation
 └── .gitignore                 # Excludes local dumps, ZIPs, and OS files
 ```
