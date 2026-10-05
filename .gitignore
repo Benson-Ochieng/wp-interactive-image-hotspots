@@ -1,0 +1,26 @@
+# WordPress & Database Dumps
+*.sql
+*.sql.gz
+dynamic-pointers-export.json
+dynamic-pointers-export.sql
+
+# Distribution Packages & Archives
+*.zip
+*.tar.gz
+dist/
+build/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE & Editor Configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs & Environment
+*.log
+.env
